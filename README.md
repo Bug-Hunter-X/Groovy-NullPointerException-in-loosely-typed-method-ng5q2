@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy programming related to null pointer exceptions.  The script 'bug.groovy' showcases a method that doesn't effectively handle null input, leading to unexpected behavior.  The solution, provided in 'bugSolution.groovy', addresses the issue using robust null checks, making the method more resilient to unexpected inputs.
